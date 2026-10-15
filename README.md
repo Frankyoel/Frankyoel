@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/aurora.svg" alt="Frankyoel — Desarrollo web y móvil · Linux · Aprendizaje continuo" width="100%" />
+</p>
 
-<!--
-**Frankyoel/Frankyoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudiante de Ingeniería de Sistemas Computacionales · Perú
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Frankyoel">GitHub</a> ·
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+Soy Franky Yoel. He desarrollado aplicaciones para Android y participado en proyectos universitarios de desarrollo web. Me gusta aprender construyendo, colaborar y entender cómo se conectan las partes de una aplicación.
+
+Conozco tecnologias como WordPress y estoy aprendiendo sobre ciberseguridad aplicada a aplicaciones web. Uso Linux como sistema principal y manejo sistemas con win 10/11.
+
+## Tecnologías que he utilizado
+
+| Área | Tecnologías |
+| --- | --- |
+| Desarrollo móvil | Dart · Flutter · Android Studio |
+| Desarrollo web | C# · ASP.NET Core · WordPress |
+| Datos y servicios | MySQL · Firebase |
+| Herramientas y sistemas | Git · GitHub · VS Code · Visual Studio · Linux · Windows |
+
+## Lo que estoy aprendiendo
+
+- Ciberseguridad y evaluación de seguridad en aplicaciones web.
+- Redes, configuración de equipos Cisco y prácticas con Packet Tracer.
+- Patrones de diseño, modelamiento de sistemas y automatización básica.
+- Uso de herramientas de IA como apoyo al desarrollo y al aprendizaje.
+
+---
+
+<p align="center"></p>
