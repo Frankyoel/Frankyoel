@@ -33,5 +33,12 @@ Conozco tecnologias como WordPress y estoy aprendiendo sobre ciberseguridad apli
 - Uso de herramientas de IA como apoyo al desarrollo y al aprendizaje.
 
 ---
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/umeshkumarsahoo/umeshkumarsahoo/output/snake.svg" alt="Snake animation" />
+
+###
 
 <p align="center"></p>
